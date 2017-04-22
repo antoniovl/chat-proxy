@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chat-proxy.iml" filepath="$PROJECT_DIR$/chat-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-proxy-client/chat-proxy-client.iml" filepath="$PROJECT_DIR$/chat-proxy-client/chat-proxy-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-proxy-server/chat-proxy-server.iml" filepath="$PROJECT_DIR$/chat-proxy-server/chat-proxy-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-proxy-shared/chat-proxy-shared.iml" filepath="$PROJECT_DIR$/chat-proxy-shared/chat-proxy-shared.iml" />
+    </modules>
+  </component>
+</project>
